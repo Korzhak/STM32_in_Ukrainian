@@ -54,4 +54,7 @@
 | -------------------- | ------------- | -------------- |
 | **Розшифрування:**   | -40°C до 85°C | -40°C до 105°C |
 
+<br/>
+<br/>
+
 Джерело: https://www.digikey.com/en/maker/blogs/2020/understanding-stm32-naming-conventions
