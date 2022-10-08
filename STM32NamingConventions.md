@@ -57,4 +57,6 @@
 <br/>
 <br/>
 
-Джерело: https://www.digikey.com/en/maker/blogs/2020/understanding-stm32-naming-conventions
+Джерела: 
+https://www.digikey.com/en/maker/blogs/2020/understanding-stm32-naming-conventions
+https://stm32world.com/wiki/STM32
